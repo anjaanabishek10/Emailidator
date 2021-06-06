@@ -73,7 +73,6 @@ sub help()
     print "\033[1;31mFLAG:\n";
     print "\033[1;37m-h or --help   => show the help menu\n";
     print "\033[1;37m-e or --email  => accept single email\n";
-    print "\033[1;37m-f or --file   => accept file containing email\n";
     print "\n";
     print "\033[1;31mEXAMPLE:\n";
     print "\033[1;37mperl emailidator.pl -h\n";
